@@ -1,5 +1,13 @@
 # dwl - dwm for Wayland
 
+
+patch -i patches/{patch}
+
+
+
+
+
+
 Join us on our IRC channel: [#dwl on Libera Chat]  
 Or on the community-maintained [Discord server].
 
