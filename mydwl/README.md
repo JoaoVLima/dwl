@@ -3,7 +3,9 @@
 
 patch -i patches/{patch}
 
+sudo make config.h clean install
 
+rm config.h
 
 
 
